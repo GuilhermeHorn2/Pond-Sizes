@@ -9,3 +9,5 @@ Input:
 1 1 0 1
 0 1 0 1
 Output: 2, 4, 1 (in any order) 
+
+cpp version is correct.
